@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Front-End Web Developer since 2021. I've worked on several projects in various fields. Also, I gained some knowledge about Back-End Web Development during working on projects. I am also a UI/UX Designer and a Senior Graphic Designer. I am a hardworking and ambitious individual with a great passion for technology, especially programming.
+I am Frontend Web Developer since 2021. I've worked on several projects in various fields. Also, I gained some knowledge about Backend Web Development during working on projects. I am also a UI/UX Designer and a Senior Graphic Designer. I am a hardworking and ambitious individual with a great passion for technology, especially programming.
 
 
 ## 🌐 Socials:
