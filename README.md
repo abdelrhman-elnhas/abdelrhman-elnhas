@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Frontend Web Developer since 2021. I've worked on several projects in various fields. Also, I gained some knowledge about Backend Web Development during working on projects. I am also a UI/UX Designer and a Senior Graphic Designer. I am a hardworking and ambitious individual with a great passion for technology, especially programming.
+3+ years of software engineering with experience in Frontend Development, proficient in crafting dynamic interfaces using Vanilla JavaScript and React.js. Experienced in Graphic Design and UI/UX Design, showcasing a blend of creativity and technical skills. Familiar with Backend Development basics for a comprehensive project perspective. A dedicated and ambitious individual with a profound passion for technology, especially programming.
 
 
 ## 🌐 Socials:
