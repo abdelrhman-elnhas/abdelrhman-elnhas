@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Software Engineer with 2+ years of experience in crafting engaging, interactive user interfaces using Vanilla JavaScript and React JS. With a strong foundation in Graphic Design and UI/UX Design, blending creativity with technical proficiency. Proficient in core Backend Development concepts, offering a holistic understanding of the project lifecycle. A dedicated professional with a profound passion for technology and a commitment to programming excellence.
+Frontend Software Engineer with 3+ years of experience in crafting engaging, interactive user interfaces using Vanilla JavaScript and React JS. With a strong foundation in Graphic Design and UI/UX Design, blending creativity with technical proficiency. Proficient in core Backend Development concepts, offering a holistic understanding of the project lifecycle. A dedicated professional with a profound passion for technology and a commitment to programming excellence.
 
 
 ## 🌐 Socials:
